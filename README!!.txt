@@ -8,7 +8,7 @@ python manage.py runserver
 then go to this link: http://127.0.0.1:8000/
 
 
-Task needed if possible:
+Task needed if possible: For user update
 1.Make a model for custom user attributes=[username,first name, last name, email, password]and apply it
 2.Update the register and login form and view and other stuff related
 3.make a user update view,form and urls
